@@ -1,0 +1,21 @@
+plotly
+# requirements.txt
+langchain
+langgraph
+langchain_openai  # Using OpenAI again
+pymongo
+sqlalchemy
+psycopg2-binary # For PostgreSQL, or mysql-connector-python for MySQL
+fastapi
+uvicorn
+sentence-transformers # For local embeddings
+unstructured[pdf]  # For PDF document processing
+langchain-community  # For document loaders
+faiss-cpu  # For vector storage
+python-dotenv  # For environment variables
+# Stable PDF parsing on Windows
+pypdf
+# Local LLM deps (not needed now, but can keep if you want)
+# transformers
+# torch
+# accelerate
