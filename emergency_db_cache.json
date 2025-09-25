@@ -1,0 +1,3221 @@
+{
+  "emergency_reports": [
+    {
+      "report_id": "6d11a638-8b83-413d-a35b-f905681d9d5b",
+      "timestamp": "2025-09-28T09:06:05.422796",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:05.422814"
+    },
+    {
+      "report_id": "815de0f0-27ce-490d-ba45-623685bc07b5",
+      "timestamp": "2025-09-28T09:06:08.039461",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:08.039485"
+    },
+    {
+      "report_id": "0eab1786-d2f8-4d49-8df7-6ac78bcdfda1",
+      "timestamp": "2025-09-28T09:06:09.921255",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:09.921277"
+    },
+    {
+      "report_id": "f12c057a-cf1f-4ee1-b64c-52fc488e9b6c",
+      "timestamp": "2025-09-28T09:06:11.766178",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:11.766193"
+    },
+    {
+      "report_id": "4d2c6da4-80ad-4e03-a0de-0f9ed32599e9",
+      "timestamp": "2025-09-28T09:06:14.513582",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:14.513602"
+    },
+    {
+      "report_id": "f581f4a3-45af-485a-a9db-46b2017321d9",
+      "timestamp": "2025-09-28T09:06:16.915502",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:16.915518"
+    },
+    {
+      "report_id": "7481b833-e066-46ab-aa71-a09dd7afb9d3",
+      "timestamp": "2025-09-28T09:06:23.411299",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:23.411313"
+    },
+    {
+      "report_id": "74b4967b-d826-409f-b221-7ba2f7153f1a",
+      "timestamp": "2025-09-28T09:06:25.775402",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:25.775421"
+    },
+    {
+      "report_id": "f07761f3-468f-4c8f-9968-462adbdf7996",
+      "timestamp": "2025-09-28T09:06:27.402580",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:27.402599"
+    },
+    {
+      "report_id": "f2f2d0f8-1069-4cc5-b9be-e62e7ab1d951",
+      "timestamp": "2025-09-28T09:06:29.092599",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:29.092615"
+    },
+    {
+      "report_id": "9f63446e-a4f4-4863-9f1e-070834752631",
+      "timestamp": "2025-09-28T09:06:30.790129",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:30.790150"
+    },
+    {
+      "report_id": "f424141e-e886-4f04-8828-8773f260d6da",
+      "timestamp": "2025-09-28T09:06:32.527479",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:32.527496"
+    },
+    {
+      "report_id": "b8a69f92-e45a-416d-b680-2fd0a561e2a6",
+      "timestamp": "2025-09-28T09:06:48.193599",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:48.193614"
+    },
+    {
+      "report_id": "27e874c9-e550-4e14-904c-6c749af72cf2",
+      "timestamp": "2025-09-28T09:06:51.917576",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:51.917590"
+    },
+    {
+      "report_id": "0f8f21d4-d43b-492b-a7d9-26dbcac843ef",
+      "timestamp": "2025-09-28T09:06:54.396464",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:54.396482"
+    },
+    {
+      "report_id": "dd4d33e5-13a2-4ecb-bdcf-491124d60c54",
+      "timestamp": "2025-09-28T09:06:56.897248",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:56.897264"
+    },
+    {
+      "report_id": "83a80fee-c847-4227-87f5-dd15528e90f2",
+      "timestamp": "2025-09-28T09:06:59.168036",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:59.168050"
+    },
+    {
+      "report_id": "138d6696-2c97-471c-8528-ccdce2fc8bb0",
+      "timestamp": "2025-09-28T09:07:01.403638",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:01.403656"
+    },
+    {
+      "report_id": "db1f2928-947a-4792-925f-d749c2287859",
+      "timestamp": "2025-09-28T09:07:39.006211",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:39.006226"
+    },
+    {
+      "report_id": "5270bf5c-0479-4de8-bc3a-fea4dc41f25b",
+      "timestamp": "2025-09-28T09:07:40.867824",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:40.867842"
+    },
+    {
+      "report_id": "183d0a82-2daa-472e-89f3-86c7f6bb7a91",
+      "timestamp": "2025-09-28T09:07:42.402138",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:07:42.402159"
+    },
+    {
+      "report_id": "1e9986d9-2aab-4d27-a33b-2d02270fe46d",
+      "timestamp": "2025-09-28T09:07:44.543957",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:44.543977"
+    },
+    {
+      "report_id": "9ab033f2-77d7-4592-bb8c-910cd142bc98",
+      "timestamp": "2025-09-28T09:07:47.712744",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:07:47.712759"
+    },
+    {
+      "report_id": "9876b6a4-6b7f-44f2-be9d-5d7f9c087d6e",
+      "timestamp": "2025-09-28T09:07:50.254145",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:50.254160"
+    },
+    {
+      "report_id": "715c4e42-0ed6-4c64-9715-364709f8fd51",
+      "timestamp": "2025-09-28T09:08:03.272295",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:03.272309"
+    },
+    {
+      "report_id": "c8b9182b-f16e-4c90-8f36-f5fabf24a86d",
+      "timestamp": "2025-09-28T09:08:05.195348",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:05.195362"
+    },
+    {
+      "report_id": "0e0c4dcc-b705-4e45-81cb-db94700d2323",
+      "timestamp": "2025-09-28T09:08:06.588539",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:06.588555"
+    },
+    {
+      "report_id": "cf9b15c9-4b3b-4394-bce7-6113751532af",
+      "timestamp": "2025-09-28T09:08:08.148188",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:08.148203"
+    },
+    {
+      "report_id": "99a74b9d-e675-4ac1-8c23-fe5918b7377c",
+      "timestamp": "2025-09-28T09:08:09.791021",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:09.791036"
+    },
+    {
+      "report_id": "3c9ece3f-01cb-41a8-b68e-9758f0f7abed",
+      "timestamp": "2025-09-28T09:08:11.640219",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:11.640234"
+    },
+    {
+      "report_id": "94b1b1ed-80f4-4369-99ab-00098180a35f",
+      "timestamp": "2025-09-28T09:08:16.561149",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:16.561164"
+    },
+    {
+      "report_id": "37db45e8-46eb-454e-9de3-fe7ded1af6d5",
+      "timestamp": "2025-09-28T09:08:18.567798",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:18.567813"
+    },
+    {
+      "report_id": "c1fd2f34-36be-4089-aa0b-b14a4ef26f98",
+      "timestamp": "2025-09-28T09:08:21.724186",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:21.724208"
+    },
+    {
+      "report_id": "b7eb544b-c979-4599-8ea4-79b883ac3944",
+      "timestamp": "2025-09-28T09:08:23.530558",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:23.530572"
+    },
+    {
+      "report_id": "9cc559be-5534-46f4-a320-6264b4dfe4ff",
+      "timestamp": "2025-09-28T09:08:25.262355",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:25.262380"
+    },
+    {
+      "report_id": "4eaa8e07-3470-421d-bce1-f61d00177a2a",
+      "timestamp": "2025-09-28T09:08:27.626636",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:27.626652"
+    },
+    {
+      "report_id": "0b5a25cf-205a-4464-985a-a17a26ce749a",
+      "timestamp": "2025-09-28T09:08:32.439213",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:32.439233"
+    },
+    {
+      "report_id": "c578a59e-2533-4ae2-8130-f49c4a3d0e33",
+      "timestamp": "2025-09-28T09:08:34.368339",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:34.368354"
+    },
+    {
+      "report_id": "1263864f-55fb-4012-9a48-0bebabc0d966",
+      "timestamp": "2025-09-28T09:08:36.117398",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:36.117413"
+    },
+    {
+      "report_id": "1673c308-1b70-4473-a139-6898f685384b",
+      "timestamp": "2025-09-28T09:08:37.967636",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:37.967650"
+    },
+    {
+      "report_id": "87c986e4-026e-4852-900a-4043e9b20da8",
+      "timestamp": "2025-09-28T09:08:40.428202",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:40.428218"
+    },
+    {
+      "report_id": "f5d7ea34-6590-4d97-84c0-29bc5a79eeb1",
+      "timestamp": "2025-09-28T09:08:42.373892",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:42.373910"
+    },
+    {
+      "report_id": "0ab7ee43-50b2-4caa-a9a2-4bb02a7b6727",
+      "timestamp": "2025-09-28T09:08:53.875739",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:53.875753"
+    },
+    {
+      "report_id": "3a86dab4-424e-4a88-a1dc-4b1afdf4530d",
+      "timestamp": "2025-09-28T09:08:55.678719",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:55.678735"
+    },
+    {
+      "report_id": "ee46a122-9d88-4fde-a791-dd0ed2b61067",
+      "timestamp": "2025-09-28T09:08:58.339004",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:58.339018"
+    },
+    {
+      "report_id": "d9f23009-b9c8-49c5-8bbf-bd441e99591a",
+      "timestamp": "2025-09-28T09:09:02.360393",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:02.360408"
+    },
+    {
+      "report_id": "b67d94f7-f04c-4a01-8688-22ad17c00e34",
+      "timestamp": "2025-09-28T09:09:07.549259",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:09:07.549274"
+    },
+    {
+      "report_id": "988825dc-d27b-49cb-8ec6-744aba5e8f5e",
+      "timestamp": "2025-09-28T09:09:09.433761",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:09.433780"
+    },
+    {
+      "report_id": "35406397-aa83-4597-87ee-ee12a83fa87c",
+      "timestamp": "2025-09-28T09:09:33.777058",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:33.777073"
+    },
+    {
+      "report_id": "6fdacece-41e8-49b6-8d6b-1a335fb01ae1",
+      "timestamp": "2025-09-28T09:09:35.294769",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:35.294784"
+    },
+    {
+      "report_id": "f7b49c22-d345-42d5-9308-3e83a4b50201",
+      "timestamp": "2025-09-28T09:09:37.042268",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:09:37.042281"
+    },
+    {
+      "report_id": "bed1e366-3d94-4934-a481-0014b50bae24",
+      "timestamp": "2025-09-28T09:09:38.996570",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:38.996588"
+    },
+    {
+      "report_id": "74eda54f-e034-4efa-9bb6-7041218fe0a3",
+      "timestamp": "2025-09-28T09:09:40.620389",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:09:40.620405"
+    },
+    {
+      "report_id": "6c302525-3a97-40a3-a41a-493d8bbb9f18",
+      "timestamp": "2025-09-28T09:09:42.165889",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:42.165904"
+    },
+    {
+      "report_id": "8876899f-fa2b-4d5f-badc-9ba8a3905ff0",
+      "timestamp": "2025-09-28T09:11:49.659965",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "medical_emergency",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:49.659984"
+    },
+    {
+      "report_id": "f784bec0-b20c-4f32-8426-c969d752eed6",
+      "timestamp": "2025-09-28T09:11:51.387729",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:51.387745"
+    },
+    {
+      "report_id": "e85889d7-e33b-4778-b82e-983ad8e6fad1",
+      "timestamp": "2025-09-28T09:11:52.614675",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:11:52.614690"
+    },
+    {
+      "report_id": "0d94a214-2e49-4119-8466-7b3252812fbe",
+      "timestamp": "2025-09-28T09:11:54.812417",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:54.812437"
+    },
+    {
+      "report_id": "0322090a-4a1d-48a6-9cf8-6fbba38324c9",
+      "timestamp": "2025-09-28T09:11:56.178833",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible influenza or respiratory infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:11:56.178848"
+    },
+    {
+      "report_id": "e802795d-7b1c-4325-aff6-af23e5f23c6f",
+      "timestamp": "2025-09-28T09:11:57.780723",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:57.780735"
+    },
+    {
+      "report_id": "6a26ef09-1053-4166-b558-c352e5858362",
+      "timestamp": "2025-09-28T09:12:06.866744",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "medical_emergency",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:06.866759"
+    },
+    {
+      "report_id": "4364e534-b67d-469a-88fc-89f74d11f6c9",
+      "timestamp": "2025-09-28T09:12:08.486998",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:08.487015"
+    },
+    {
+      "report_id": "f48c4040-6310-44be-83d0-2b0e8d3223a4",
+      "timestamp": "2025-09-28T09:12:09.819506",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:09.819526"
+    },
+    {
+      "report_id": "31034431-9cdd-46ee-8e9b-1164e9efc23c",
+      "timestamp": "2025-09-28T09:12:11.903541",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:11.903556"
+    },
+    {
+      "report_id": "2d8646cf-fea2-4b6e-9ddf-444ee1d30a09",
+      "timestamp": "2025-09-28T09:12:13.822104",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:13.822124"
+    },
+    {
+      "report_id": "e4b9d284-c58c-4aa8-92ad-d768b71fa24e",
+      "timestamp": "2025-09-28T09:12:15.298658",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:15.298673"
+    },
+    {
+      "report_id": "2d7dc6b8-343c-410c-899a-e74f1d5e3368",
+      "timestamp": "2025-09-28T09:12:19.445618",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "medical_emergency",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:19.445630"
+    },
+    {
+      "report_id": "bffe355d-2039-4ed3-9a9b-ed594755019f",
+      "timestamp": "2025-09-28T09:12:22.313862",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:22.313880"
+    },
+    {
+      "report_id": "07b3b290-b7c4-4017-88c2-f5773111a5e1",
+      "timestamp": "2025-09-28T09:12:23.601014",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "critical",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or severe flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:23.601030"
+    },
+    {
+      "report_id": "07a4fb08-86eb-4663-ab1e-684eb08a0af8",
+      "timestamp": "2025-09-28T09:12:24.985693",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:24.985711"
+    },
+    {
+      "report_id": "dcec48c4-4a6a-4e5f-8c3a-6651f9421acd",
+      "timestamp": "2025-09-28T09:12:26.314339",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:26.314364"
+    },
+    {
+      "report_id": "5858de3d-0d2c-4143-9921-0eb7f270b8e7",
+      "timestamp": "2025-09-28T09:12:27.798289",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:27.798305"
+    },
+    {
+      "report_id": "81aaa11e-5693-4f3a-9632-493a7f6034b4",
+      "timestamp": "2025-09-28T09:14:53.900435",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:14:53.900453"
+    },
+    {
+      "report_id": "9686fb04-36eb-418f-947b-ccb48371e7f3",
+      "timestamp": "2025-09-28T09:17:23.094317",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:17:23.094337"
+    }
+  ],
+  "epidemic_reports": [
+    {
+      "report_id": "6d11a638-8b83-413d-a35b-f905681d9d5b",
+      "timestamp": "2025-09-28T09:06:05.422796",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:05.422814"
+    },
+    {
+      "report_id": "815de0f0-27ce-490d-ba45-623685bc07b5",
+      "timestamp": "2025-09-28T09:06:08.039461",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:08.039485"
+    },
+    {
+      "report_id": "0eab1786-d2f8-4d49-8df7-6ac78bcdfda1",
+      "timestamp": "2025-09-28T09:06:09.921255",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:09.921277"
+    },
+    {
+      "report_id": "f12c057a-cf1f-4ee1-b64c-52fc488e9b6c",
+      "timestamp": "2025-09-28T09:06:11.766178",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:11.766193"
+    },
+    {
+      "report_id": "4d2c6da4-80ad-4e03-a0de-0f9ed32599e9",
+      "timestamp": "2025-09-28T09:06:14.513582",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:14.513602"
+    },
+    {
+      "report_id": "f581f4a3-45af-485a-a9db-46b2017321d9",
+      "timestamp": "2025-09-28T09:06:16.915502",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:16.915518"
+    },
+    {
+      "report_id": "7481b833-e066-46ab-aa71-a09dd7afb9d3",
+      "timestamp": "2025-09-28T09:06:23.411299",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:23.411313"
+    },
+    {
+      "report_id": "74b4967b-d826-409f-b221-7ba2f7153f1a",
+      "timestamp": "2025-09-28T09:06:25.775402",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:25.775421"
+    },
+    {
+      "report_id": "f07761f3-468f-4c8f-9968-462adbdf7996",
+      "timestamp": "2025-09-28T09:06:27.402580",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:27.402599"
+    },
+    {
+      "report_id": "f2f2d0f8-1069-4cc5-b9be-e62e7ab1d951",
+      "timestamp": "2025-09-28T09:06:29.092599",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:29.092615"
+    },
+    {
+      "report_id": "9f63446e-a4f4-4863-9f1e-070834752631",
+      "timestamp": "2025-09-28T09:06:30.790129",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:30.790150"
+    },
+    {
+      "report_id": "f424141e-e886-4f04-8828-8773f260d6da",
+      "timestamp": "2025-09-28T09:06:32.527479",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:32.527496"
+    },
+    {
+      "report_id": "b8a69f92-e45a-416d-b680-2fd0a561e2a6",
+      "timestamp": "2025-09-28T09:06:48.193599",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:48.193614"
+    },
+    {
+      "report_id": "27e874c9-e550-4e14-904c-6c749af72cf2",
+      "timestamp": "2025-09-28T09:06:51.917576",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:51.917590"
+    },
+    {
+      "report_id": "0f8f21d4-d43b-492b-a7d9-26dbcac843ef",
+      "timestamp": "2025-09-28T09:06:54.396464",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:54.396482"
+    },
+    {
+      "report_id": "dd4d33e5-13a2-4ecb-bdcf-491124d60c54",
+      "timestamp": "2025-09-28T09:06:56.897248",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:06:56.897264"
+    },
+    {
+      "report_id": "83a80fee-c847-4227-87f5-dd15528e90f2",
+      "timestamp": "2025-09-28T09:06:59.168036",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:06:59.168050"
+    },
+    {
+      "report_id": "138d6696-2c97-471c-8528-ccdce2fc8bb0",
+      "timestamp": "2025-09-28T09:07:01.403638",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:01.403656"
+    },
+    {
+      "report_id": "db1f2928-947a-4792-925f-d749c2287859",
+      "timestamp": "2025-09-28T09:07:39.006211",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:39.006226"
+    },
+    {
+      "report_id": "5270bf5c-0479-4de8-bc3a-fea4dc41f25b",
+      "timestamp": "2025-09-28T09:07:40.867824",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:40.867842"
+    },
+    {
+      "report_id": "183d0a82-2daa-472e-89f3-86c7f6bb7a91",
+      "timestamp": "2025-09-28T09:07:42.402138",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:07:42.402159"
+    },
+    {
+      "report_id": "1e9986d9-2aab-4d27-a33b-2d02270fe46d",
+      "timestamp": "2025-09-28T09:07:44.543957",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:44.543977"
+    },
+    {
+      "report_id": "9ab033f2-77d7-4592-bb8c-910cd142bc98",
+      "timestamp": "2025-09-28T09:07:47.712744",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:07:47.712759"
+    },
+    {
+      "report_id": "9876b6a4-6b7f-44f2-be9d-5d7f9c087d6e",
+      "timestamp": "2025-09-28T09:07:50.254145",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:07:50.254160"
+    },
+    {
+      "report_id": "715c4e42-0ed6-4c64-9715-364709f8fd51",
+      "timestamp": "2025-09-28T09:08:03.272295",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:03.272309"
+    },
+    {
+      "report_id": "c8b9182b-f16e-4c90-8f36-f5fabf24a86d",
+      "timestamp": "2025-09-28T09:08:05.195348",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:05.195362"
+    },
+    {
+      "report_id": "0e0c4dcc-b705-4e45-81cb-db94700d2323",
+      "timestamp": "2025-09-28T09:08:06.588539",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:06.588555"
+    },
+    {
+      "report_id": "cf9b15c9-4b3b-4394-bce7-6113751532af",
+      "timestamp": "2025-09-28T09:08:08.148188",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:08.148203"
+    },
+    {
+      "report_id": "99a74b9d-e675-4ac1-8c23-fe5918b7377c",
+      "timestamp": "2025-09-28T09:08:09.791021",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:09.791036"
+    },
+    {
+      "report_id": "3c9ece3f-01cb-41a8-b68e-9758f0f7abed",
+      "timestamp": "2025-09-28T09:08:11.640219",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:11.640234"
+    },
+    {
+      "report_id": "94b1b1ed-80f4-4369-99ab-00098180a35f",
+      "timestamp": "2025-09-28T09:08:16.561149",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:16.561164"
+    },
+    {
+      "report_id": "37db45e8-46eb-454e-9de3-fe7ded1af6d5",
+      "timestamp": "2025-09-28T09:08:18.567798",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:18.567813"
+    },
+    {
+      "report_id": "c1fd2f34-36be-4089-aa0b-b14a4ef26f98",
+      "timestamp": "2025-09-28T09:08:21.724186",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:21.724208"
+    },
+    {
+      "report_id": "b7eb544b-c979-4599-8ea4-79b883ac3944",
+      "timestamp": "2025-09-28T09:08:23.530558",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:23.530572"
+    },
+    {
+      "report_id": "9cc559be-5534-46f4-a320-6264b4dfe4ff",
+      "timestamp": "2025-09-28T09:08:25.262355",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:25.262380"
+    },
+    {
+      "report_id": "4eaa8e07-3470-421d-bce1-f61d00177a2a",
+      "timestamp": "2025-09-28T09:08:27.626636",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:27.626652"
+    },
+    {
+      "report_id": "0b5a25cf-205a-4464-985a-a17a26ce749a",
+      "timestamp": "2025-09-28T09:08:32.439213",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:32.439233"
+    },
+    {
+      "report_id": "c578a59e-2533-4ae2-8130-f49c4a3d0e33",
+      "timestamp": "2025-09-28T09:08:34.368339",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:34.368354"
+    },
+    {
+      "report_id": "1263864f-55fb-4012-9a48-0bebabc0d966",
+      "timestamp": "2025-09-28T09:08:36.117398",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:36.117413"
+    },
+    {
+      "report_id": "1673c308-1b70-4473-a139-6898f685384b",
+      "timestamp": "2025-09-28T09:08:37.967636",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:37.967650"
+    },
+    {
+      "report_id": "87c986e4-026e-4852-900a-4043e9b20da8",
+      "timestamp": "2025-09-28T09:08:40.428202",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:40.428218"
+    },
+    {
+      "report_id": "f5d7ea34-6590-4d97-84c0-29bc5a79eeb1",
+      "timestamp": "2025-09-28T09:08:42.373892",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:42.373910"
+    },
+    {
+      "report_id": "0ab7ee43-50b2-4caa-a9a2-4bb02a7b6727",
+      "timestamp": "2025-09-28T09:08:53.875739",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:53.875753"
+    },
+    {
+      "report_id": "3a86dab4-424e-4a88-a1dc-4b1afdf4530d",
+      "timestamp": "2025-09-28T09:08:55.678719",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:08:55.678735"
+    },
+    {
+      "report_id": "ee46a122-9d88-4fde-a791-dd0ed2b61067",
+      "timestamp": "2025-09-28T09:08:58.339004",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:08:58.339018"
+    },
+    {
+      "report_id": "d9f23009-b9c8-49c5-8bbf-bd441e99591a",
+      "timestamp": "2025-09-28T09:09:02.360393",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:02.360408"
+    },
+    {
+      "report_id": "b67d94f7-f04c-4a01-8688-22ad17c00e34",
+      "timestamp": "2025-09-28T09:09:07.549259",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:09:07.549274"
+    },
+    {
+      "report_id": "988825dc-d27b-49cb-8ec6-744aba5e8f5e",
+      "timestamp": "2025-09-28T09:09:09.433761",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:09.433780"
+    },
+    {
+      "report_id": "35406397-aa83-4597-87ee-ee12a83fa87c",
+      "timestamp": "2025-09-28T09:09:33.777058",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:33.777073"
+    },
+    {
+      "report_id": "6fdacece-41e8-49b6-8d6b-1a335fb01ae1",
+      "timestamp": "2025-09-28T09:09:35.294769",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:35.294784"
+    },
+    {
+      "report_id": "f7b49c22-d345-42d5-9308-3e83a4b50201",
+      "timestamp": "2025-09-28T09:09:37.042268",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:09:37.042281"
+    },
+    {
+      "report_id": "bed1e366-3d94-4934-a481-0014b50bae24",
+      "timestamp": "2025-09-28T09:09:38.996570",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:38.996588"
+    },
+    {
+      "report_id": "74eda54f-e034-4efa-9bb6-7041218fe0a3",
+      "timestamp": "2025-09-28T09:09:40.620389",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:09:40.620405"
+    },
+    {
+      "report_id": "6c302525-3a97-40a3-a41a-493d8bbb9f18",
+      "timestamp": "2025-09-28T09:09:42.165889",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:09:42.165904"
+    },
+    {
+      "report_id": "f784bec0-b20c-4f32-8426-c969d752eed6",
+      "timestamp": "2025-09-28T09:11:51.387729",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:51.387745"
+    },
+    {
+      "report_id": "e85889d7-e33b-4778-b82e-983ad8e6fad1",
+      "timestamp": "2025-09-28T09:11:52.614675",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:11:52.614690"
+    },
+    {
+      "report_id": "0d94a214-2e49-4119-8466-7b3252812fbe",
+      "timestamp": "2025-09-28T09:11:54.812417",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:54.812437"
+    },
+    {
+      "report_id": "0322090a-4a1d-48a6-9cf8-6fbba38324c9",
+      "timestamp": "2025-09-28T09:11:56.178833",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "possible influenza or respiratory infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:11:56.178848"
+    },
+    {
+      "report_id": "e802795d-7b1c-4325-aff6-af23e5f23c6f",
+      "timestamp": "2025-09-28T09:11:57.780723",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:11:57.780735"
+    },
+    {
+      "report_id": "4364e534-b67d-469a-88fc-89f74d11f6c9",
+      "timestamp": "2025-09-28T09:12:08.486998",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:08.487015"
+    },
+    {
+      "report_id": "f48c4040-6310-44be-83d0-2b0e8d3223a4",
+      "timestamp": "2025-09-28T09:12:09.819506",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or COVID-19",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:09.819526"
+    },
+    {
+      "report_id": "31034431-9cdd-46ee-8e9b-1164e9efc23c",
+      "timestamp": "2025-09-28T09:12:11.903541",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "extreme weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:11.903556"
+    },
+    {
+      "report_id": "2d8646cf-fea2-4b6e-9ddf-444ee1d30a09",
+      "timestamp": "2025-09-28T09:12:13.822104",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:13.822124"
+    },
+    {
+      "report_id": "e4b9d284-c58c-4aa8-92ad-d768b71fa24e",
+      "timestamp": "2025-09-28T09:12:15.298658",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:15.298673"
+    },
+    {
+      "report_id": "bffe355d-2039-4ed3-9a9b-ed594755019f",
+      "timestamp": "2025-09-28T09:12:22.313862",
+      "user_query": "Fever and severe headache, body is aching all over",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "severe headache",
+        "body ache"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:22.313880"
+    },
+    {
+      "report_id": "07b3b290-b7c4-4017-88c2-f5773111a5e1",
+      "timestamp": "2025-09-28T09:12:23.601014",
+      "user_query": "High fever with cough and having trouble breathing properly",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "critical",
+      "symptoms": [
+        "high fever",
+        "cough",
+        "trouble breathing"
+      ],
+      "suspected_condition": "respiratory infection or severe flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": true,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:23.601030"
+    },
+    {
+      "report_id": "07a4fb08-86eb-4663-ab1e-684eb08a0af8",
+      "timestamp": "2025-09-28T09:12:24.985693",
+      "user_query": "Fever and nausea, feeling extremely weak and tired",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "nausea",
+        "weakness",
+        "tiredness"
+      ],
+      "suspected_condition": "viral infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:24.985711"
+    },
+    {
+      "report_id": "dcec48c4-4a6a-4e5f-8c3a-6651f9421acd",
+      "timestamp": "2025-09-28T09:12:26.314339",
+      "user_query": "Very high fever 102F and continuous cough, fatigue",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "high",
+      "symptoms": [
+        "very high fever 102F",
+        "continuous cough",
+        "fatigue"
+      ],
+      "suspected_condition": "infectious disease",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": true,
+      "created_at": "2025-09-28T09:12:26.314364"
+    },
+    {
+      "report_id": "5858de3d-0d2c-4143-9921-0eb7f270b8e7",
+      "timestamp": "2025-09-28T09:12:27.798289",
+      "user_query": "Fever headache and cough, many people in my area seem sick",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "fever",
+        "headache",
+        "cough"
+      ],
+      "suspected_condition": "infectious disease outbreak",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:12:27.798305"
+    },
+    {
+      "report_id": "81aaa11e-5693-4f3a-9632-493a7f6034b4",
+      "timestamp": "2025-09-28T09:14:53.900435",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:14:53.900453"
+    },
+    {
+      "report_id": "9686fb04-36eb-418f-947b-ccb48371e7f3",
+      "timestamp": "2025-09-28T09:17:23.094317",
+      "user_query": "I have high fever and persistent cough for 3 days, feeling very weak",
+      "emergency_type": "disease_outbreak",
+      "vulnerability_level": "medium",
+      "symptoms": [
+        "high fever",
+        "persistent cough",
+        "feeling very weak"
+      ],
+      "suspected_condition": "respiratory infection or flu",
+      "location": {
+        "lat": 17.9689,
+        "lon": 79.5894,
+        "district": "warangal"
+      },
+      "requires_immediate_response": false,
+      "status": "active",
+      "follow_up_required": false,
+      "created_at": "2025-09-28T09:17:23.094337"
+    }
+  ],
+  "resource_availability": {}
+}
