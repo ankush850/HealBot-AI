@@ -72,3 +72,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # Example usage (uncomment to test):
 # result = send_whatsapp_template("919148033536")
 # print(result)
+
+# [2025-09-29] feat(agent): add differential diagnosis inference engine
