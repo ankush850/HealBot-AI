@@ -363,3 +363,4 @@ with tabs[1]:
         if auto_refresh and api_status:
             time.sleep(refresh_rate)
             st.rerun()
+# [2025-10-01] feat(booking): implement doctor appointment booking workflow
