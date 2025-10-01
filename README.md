@@ -38,3 +38,5 @@ uvicorn main:app --reload --port 8000
 ```bash
 streamlit run app.py
 ```
+
+<!-- update: feat(api): scaffold FastAPI application and route registry -->
