@@ -19,3 +19,4 @@ pypdf
 # transformers
 # torch
 # accelerate
+# feat(api): add session management and state lifecycle hooks
