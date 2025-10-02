@@ -622,3 +622,4 @@ if __name__ == "__main__":
         except Exception as e:
             logger.error(f"Error in main loop: {e}")
             print("An error occurred. Please try again.")
+# [2025-10-02] feat(api): implement /emergency/process and /alerts/current endpoints
