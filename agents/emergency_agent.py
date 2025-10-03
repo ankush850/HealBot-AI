@@ -1148,3 +1148,4 @@ if __name__ == "__main__":
             print("-" * 40)
     else:
         print("No active alerts currently")
+# [2025-10-03] feat(dashboard): add interactive tabs for chat and emergency alerts
