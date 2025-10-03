@@ -674,3 +674,4 @@ def test_booking_system():
 
 if __name__ == "__main__":
     test_booking_system()
+# [2025-10-03] feat(dashboard): initialize Streamlit frontend dashboard layout
