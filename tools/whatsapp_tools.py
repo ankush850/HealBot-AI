@@ -74,3 +74,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # print(result)
 
 # [2025-09-29] feat(agent): add differential diagnosis inference engine
+
+# [2025-10-04] docs: add comprehensive README with architecture and setup guide
