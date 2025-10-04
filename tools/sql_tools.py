@@ -667,3 +667,5 @@ if __name__ == "__main__":
     diseases = find_diseases_by_symptoms(["fever", "headache"])
     print(json.dumps(diseases, indent=2))
 # [2025-09-30] feat(emergency): implement emergency triage classifier and severity levels
+
+# [2025-10-04] style: improve alert box CSS animations and pulse effects
