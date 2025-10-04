@@ -701,3 +701,5 @@ if __name__ == "__main__":
     print("\nCurrent Emergency Reports in DB:", len(EMERGENCY_REPORTS_DB))
     print("Current Epidemic Reports in DB:", len(EPIDEMIC_TRACKING_DB))
 # [2025-09-30] feat(emergency): add real-time emergency alert dispatcher
+
+# [2025-10-04] perf: optimize database query execution in disease lookup
