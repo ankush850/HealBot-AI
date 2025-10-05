@@ -364,3 +364,5 @@ with tabs[1]:
             time.sleep(refresh_rate)
             st.rerun()
 # [2025-10-01] feat(booking): implement doctor appointment booking workflow
+
+# [2025-10-05] refactor(agent): streamline LLM output parsing with Pydantic schemas
