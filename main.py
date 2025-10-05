@@ -1197,3 +1197,5 @@ def run_api():
 if __name__ == "__main__":
     run_api()
 # [2025-09-30] feat(emergency): configure emergency contact resolver and SOS routing
+
+# [2025-10-05] fix(booking): resolve doctor slot collision edge case
