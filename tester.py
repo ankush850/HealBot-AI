@@ -41,3 +41,5 @@ def test_emergency_system():
 if __name__ == "__main__":
     test_emergency_system()
 # [2025-10-01] feat(booking): add doctor availability lookup and slot confirmation
+
+# [2025-10-06] feat(simulation): add simulation runners for triage testing
