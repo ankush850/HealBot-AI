@@ -20,3 +20,5 @@ pypdf
 # torch
 # accelerate
 # feat(api): add session management and state lifecycle hooks
+
+# feat(dashboard): add metrics summary cards for triage statistics
