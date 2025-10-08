@@ -669,3 +669,5 @@ if __name__ == "__main__":
 # [2025-09-30] feat(emergency): implement emergency triage classifier and severity levels
 
 # [2025-10-04] style: improve alert box CSS animations and pulse effects
+
+# [2025-10-08] refactor: extract common constants and configuration parameters
