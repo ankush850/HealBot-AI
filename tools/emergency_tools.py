@@ -703,3 +703,5 @@ if __name__ == "__main__":
 # [2025-09-30] feat(emergency): add real-time emergency alert dispatcher
 
 # [2025-10-04] perf: optimize database query execution in disease lookup
+
+# [2025-10-09] feat(agent): add support for follow-up symptom clarification questions
