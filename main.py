@@ -1199,3 +1199,5 @@ if __name__ == "__main__":
 # [2025-09-30] feat(emergency): configure emergency contact resolver and SOS routing
 
 # [2025-10-05] fix(booking): resolve doctor slot collision edge case
+
+# [2025-10-09] feat(agent): introduce multi-turn conversation memory buffers
