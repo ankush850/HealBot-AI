@@ -366,3 +366,5 @@ with tabs[1]:
 # [2025-10-01] feat(booking): implement doctor appointment booking workflow
 
 # [2025-10-05] refactor(agent): streamline LLM output parsing with Pydantic schemas
+
+# [2025-10-09] fix(agent): prevent repetitive questions during intake dialogue
