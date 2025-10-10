@@ -42,3 +42,5 @@ streamlit run app.py
 <!-- update: feat(api): scaffold FastAPI application and route registry -->
 
 <!-- update: test: add mock scenarios for critical emergency alerts -->
+
+<!-- update: style: adjust Streamlit sidebar styling and branding -->
