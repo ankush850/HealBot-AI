@@ -43,3 +43,5 @@ if __name__ == "__main__":
 # [2025-10-01] feat(booking): add doctor availability lookup and slot confirmation
 
 # [2025-10-06] feat(simulation): add simulation runners for triage testing
+
+# [2025-10-10] feat(emergency): prioritize red-flag symptoms in triage scoring
