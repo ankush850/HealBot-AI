@@ -22,3 +22,5 @@ pypdf
 # feat(api): add session management and state lifecycle hooks
 
 # feat(dashboard): add metrics summary cards for triage statistics
+
+# feat(dashboard): add auto-refresh interval for active alert polling
