@@ -625,3 +625,5 @@ if __name__ == "__main__":
 # [2025-10-02] feat(api): implement /emergency/process and /alerts/current endpoints
 
 # [2025-10-07] docs: add setup instructions and API quickstart to README
+
+# [2025-10-11] refactor(db): add indexes on disease categories and severity codes
