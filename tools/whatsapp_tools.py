@@ -78,3 +78,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-10-04] docs: add comprehensive README with architecture and setup guide
 
 # [2025-10-08] perf(vector): optimize index search query latency
+
+# [2025-10-12] feat(booking): format confirmation message with doctor details and time
