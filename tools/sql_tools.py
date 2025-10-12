@@ -671,3 +671,5 @@ if __name__ == "__main__":
 # [2025-10-04] style: improve alert box CSS animations and pulse effects
 
 # [2025-10-08] refactor: extract common constants and configuration parameters
+
+# [2025-10-12] feat(booking): add cancellation and rescheduling handling
