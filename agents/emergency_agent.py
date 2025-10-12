@@ -1151,3 +1151,5 @@ if __name__ == "__main__":
 # [2025-10-03] feat(dashboard): add interactive tabs for chat and emergency alerts
 
 # [2025-10-07] fix(tools): handle empty response payloads from external APIs
+
+# [2025-10-12] test: add unit tests for WhatsApp template rendering
