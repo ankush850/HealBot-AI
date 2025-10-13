@@ -1201,3 +1201,5 @@ if __name__ == "__main__":
 # [2025-10-05] fix(booking): resolve doctor slot collision edge case
 
 # [2025-10-09] feat(agent): introduce multi-turn conversation memory buffers
+
+# [2025-10-13] feat(emergency): add nearest hospital geo-lookup support
