@@ -44,3 +44,5 @@ streamlit run app.py
 <!-- update: test: add mock scenarios for critical emergency alerts -->
 
 <!-- update: style: adjust Streamlit sidebar styling and branding -->
+
+<!-- update: perf: reduce memory footprint of loaded FAISS indices -->
