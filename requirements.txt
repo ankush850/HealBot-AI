@@ -24,3 +24,5 @@ pypdf
 # feat(dashboard): add metrics summary cards for triage statistics
 
 # feat(dashboard): add auto-refresh interval for active alert polling
+
+# docs: document emergency response protocols and triage guidelines
