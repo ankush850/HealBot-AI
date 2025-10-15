@@ -679,3 +679,5 @@ if __name__ == "__main__":
 # [2025-10-07] refactor(api): enhance CORS middleware and security headers
 
 # [2025-10-11] fix(api): fix exception handling in JSON deserialization
+
+# [2025-10-16] style: modernize color palette with accessible contrast ratios
