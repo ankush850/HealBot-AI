@@ -1203,3 +1203,5 @@ if __name__ == "__main__":
 # [2025-10-09] feat(agent): introduce multi-turn conversation memory buffers
 
 # [2025-10-13] feat(emergency): add nearest hospital geo-lookup support
+
+# [2025-10-18] test: add test suite for doctor booking agent edge cases
