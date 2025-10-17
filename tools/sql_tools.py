@@ -673,3 +673,5 @@ if __name__ == "__main__":
 # [2025-10-08] refactor: extract common constants and configuration parameters
 
 # [2025-10-12] feat(booking): add cancellation and rescheduling handling
+
+# [2025-10-17] feat(agent): add vital signs threshold checks (BP, Heart Rate, SpO2)
