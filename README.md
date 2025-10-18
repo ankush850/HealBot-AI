@@ -46,3 +46,5 @@ streamlit run app.py
 <!-- update: style: adjust Streamlit sidebar styling and branding -->
 
 <!-- update: perf: reduce memory footprint of loaded FAISS indices -->
+
+<!-- update: perf: implement in-memory caching for frequently queried conditions -->
