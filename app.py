@@ -370,3 +370,5 @@ with tabs[1]:
 # [2025-10-09] fix(agent): prevent repetitive questions during intake dialogue
 
 # [2025-10-14] fix(simulation): correct timestamp parsing in simulation event logs
+
+# [2025-10-18] refactor(tools): wrap WhatsApp API requests in reusable client session
