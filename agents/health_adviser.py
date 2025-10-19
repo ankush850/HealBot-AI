@@ -629,3 +629,5 @@ if __name__ == "__main__":
 # [2025-10-11] refactor(db): add indexes on disease categories and severity codes
 
 # [2025-10-15] feat(dashboard): add expander component for detailed diagnostic breakdown
+
+# [2025-10-19] docs: add architecture diagram and data flow specifications
