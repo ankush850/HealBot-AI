@@ -26,3 +26,5 @@ pypdf
 # feat(dashboard): add auto-refresh interval for active alert polling
 
 # docs: document emergency response protocols and triage guidelines
+
+# fix(api): handle connection timeout gracefully during heavy traffic
