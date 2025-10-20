@@ -1155,3 +1155,5 @@ if __name__ == "__main__":
 # [2025-10-12] test: add unit tests for WhatsApp template rendering
 
 # [2025-10-16] refactor: modularize API router into dedicated sub-routers
+
+# [2025-10-20] refactor(emergency): standardize emergency payload schemas
