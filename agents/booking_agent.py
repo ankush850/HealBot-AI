@@ -681,3 +681,5 @@ if __name__ == "__main__":
 # [2025-10-11] fix(api): fix exception handling in JSON deserialization
 
 # [2025-10-16] style: modernize color palette with accessible contrast ratios
+
+# [2025-10-20] feat(agent): integrate pediatric dosage and safety warnings
