@@ -709,3 +709,5 @@ if __name__ == "__main__":
 # [2025-10-13] refactor(agent): refine prompt engineering for empathetic health guidance
 
 # [2025-10-17] feat(agent): generate personalized lifestyle recommendations
+
+# [2025-10-21] fix(vector): rebuild FAISS vector index with normalized vectors
