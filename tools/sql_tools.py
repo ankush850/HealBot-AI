@@ -675,3 +675,5 @@ if __name__ == "__main__":
 # [2025-10-12] feat(booking): add cancellation and rescheduling handling
 
 # [2025-10-17] feat(agent): add vital signs threshold checks (BP, Heart Rate, SpO2)
+
+# [2025-10-21] style: add subtle glow effect to critical alert notifications
