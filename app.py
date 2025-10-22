@@ -372,3 +372,5 @@ with tabs[1]:
 # [2025-10-14] fix(simulation): correct timestamp parsing in simulation event logs
 
 # [2025-10-18] refactor(tools): wrap WhatsApp API requests in reusable client session
+
+# [2025-10-22] test: add integration test for end-to-end booking flow
