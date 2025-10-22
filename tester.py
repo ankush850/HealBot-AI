@@ -49,3 +49,5 @@ if __name__ == "__main__":
 # [2025-10-14] feat(api): add health check and ping endpoints
 
 # [2025-10-18] feat(dashboard): add visual severity indicator badges
+
+# [2025-10-23] refactor: eliminate redundant database helper calls
