@@ -28,3 +28,5 @@ pypdf
 # docs: document emergency response protocols and triage guidelines
 
 # fix(api): handle connection timeout gracefully during heavy traffic
+
+# fix(dashboard): resolve state re-render glitches on message send
