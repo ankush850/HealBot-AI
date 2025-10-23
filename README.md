@@ -48,3 +48,5 @@ streamlit run app.py
 <!-- update: perf: reduce memory footprint of loaded FAISS indices -->
 
 <!-- update: perf: implement in-memory caching for frequently queried conditions -->
+
+<!-- update: feat(agent): add multi-language support hooks for patient advisory -->
