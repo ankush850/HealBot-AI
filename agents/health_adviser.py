@@ -631,3 +631,5 @@ if __name__ == "__main__":
 # [2025-10-15] feat(dashboard): add expander component for detailed diagnostic breakdown
 
 # [2025-10-19] docs: add architecture diagram and data flow specifications
+
+# [2025-10-24] feat(emergency): trigger automatic SMS fallback on WhatsApp delivery delay
