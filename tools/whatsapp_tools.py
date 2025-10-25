@@ -84,3 +84,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-10-16] fix(booking): fix date formatting for upcoming appointment notifications
 
 # [2025-10-21] feat(dashboard): add interactive Plotly charts for triage trends
+
+# [2025-10-25] feat(agent): improve hallucination guards in medical responses
