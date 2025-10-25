@@ -677,3 +677,5 @@ if __name__ == "__main__":
 # [2025-10-17] feat(agent): add vital signs threshold checks (BP, Heart Rate, SpO2)
 
 # [2025-10-21] style: add subtle glow effect to critical alert notifications
+
+# [2025-10-25] refactor(booking): enforce ISO 8601 standard for appointment timestamps
