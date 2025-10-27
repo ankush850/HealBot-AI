@@ -50,3 +50,5 @@ streamlit run app.py
 <!-- update: perf: implement in-memory caching for frequently queried conditions -->
 
 <!-- update: feat(agent): add multi-language support hooks for patient advisory -->
+
+<!-- update: feat(agent): add medication reminder and regimen guidance -->
