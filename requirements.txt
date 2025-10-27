@@ -30,3 +30,5 @@ pypdf
 # fix(api): handle connection timeout gracefully during heavy traffic
 
 # fix(dashboard): resolve state re-render glitches on message send
+
+# refactor: clean up deprecated helper functions and imports
