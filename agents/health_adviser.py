@@ -633,3 +633,5 @@ if __name__ == "__main__":
 # [2025-10-19] docs: add architecture diagram and data flow specifications
 
 # [2025-10-24] feat(emergency): trigger automatic SMS fallback on WhatsApp delivery delay
+
+# [2025-10-28] feat(emergency): add mass-casualty incident classification rule
