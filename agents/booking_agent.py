@@ -685,3 +685,5 @@ if __name__ == "__main__":
 # [2025-10-20] feat(agent): integrate pediatric dosage and safety warnings
 
 # [2025-10-24] perf: optimize FastAPI startup time by pre-warming LLM clients
+
+# [2025-10-28] test: verify triage accuracy across diverse clinical vignettes
