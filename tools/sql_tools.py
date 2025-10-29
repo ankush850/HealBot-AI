@@ -679,3 +679,5 @@ if __name__ == "__main__":
 # [2025-10-21] style: add subtle glow effect to critical alert notifications
 
 # [2025-10-25] refactor(booking): enforce ISO 8601 standard for appointment timestamps
+
+# [2025-10-30] feat(dashboard): implement dark mode compatibility styles
