@@ -1159,3 +1159,5 @@ if __name__ == "__main__":
 # [2025-10-20] refactor(emergency): standardize emergency payload schemas
 
 # [2025-10-25] docs: update environment variable documentation and examples
+
+# [2025-10-29] fix(api): fix payload validation error in /simulation/run endpoint
