@@ -1209,3 +1209,5 @@ if __name__ == "__main__":
 # [2025-10-22] feat(booking): support multiple hospital branch locations
 
 # [2025-10-26] fix(db): ensure atomic transactions during appointment commits
+
+# [2025-10-30] refactor(agent): improve parsing resilience for unstructured input
