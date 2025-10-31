@@ -52,3 +52,5 @@ streamlit run app.py
 <!-- update: feat(agent): add multi-language support hooks for patient advisory -->
 
 <!-- update: feat(agent): add medication reminder and regimen guidance -->
+
+<!-- update: fix(emergency): fix alert deduplication window logic -->
