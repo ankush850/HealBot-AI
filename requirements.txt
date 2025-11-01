@@ -32,3 +32,5 @@ pypdf
 # fix(dashboard): resolve state re-render glitches on message send
 
 # refactor: clean up deprecated helper functions and imports
+
+# test: add regression tests for symptom triage scoring
