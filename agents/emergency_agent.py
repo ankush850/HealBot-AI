@@ -1161,3 +1161,5 @@ if __name__ == "__main__":
 # [2025-10-25] docs: update environment variable documentation and examples
 
 # [2025-10-29] fix(api): fix payload validation error in /simulation/run endpoint
+
+# [2025-11-02] feat(dashboard): display doctor availability heatmaps
