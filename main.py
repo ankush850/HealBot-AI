@@ -1211,3 +1211,5 @@ if __name__ == "__main__":
 # [2025-10-26] fix(db): ensure atomic transactions during appointment commits
 
 # [2025-10-30] refactor(agent): improve parsing resilience for unstructured input
+
+# [2025-11-04] feat(tools): add telemetry metrics for agent response latency
