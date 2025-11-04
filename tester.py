@@ -55,3 +55,5 @@ if __name__ == "__main__":
 # [2025-10-27] style: refine button hover states and transition animations
 
 # [2025-10-31] feat(tools): add logging interceptor for outgoing API requests
+
+# [2025-11-04] refactor(emergency): separate alert broadcasting from triage classification
