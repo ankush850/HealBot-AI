@@ -378,3 +378,5 @@ with tabs[1]:
 # [2025-10-26] feat(dashboard): add live log viewer tab for administrative monitoring
 
 # [2025-10-31] feat(booking): add SMS/WhatsApp confirmation receipt generator
+
+# [2025-11-04] style: enhance mobile responsiveness of Streamlit interface
