@@ -54,3 +54,5 @@ streamlit run app.py
 <!-- update: feat(agent): add medication reminder and regimen guidance -->
 
 <!-- update: fix(emergency): fix alert deduplication window logic -->
+
+<!-- update: test: benchmark vector search performance against large query sets -->
