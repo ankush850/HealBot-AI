@@ -34,3 +34,5 @@ pypdf
 # refactor: clean up deprecated helper functions and imports
 
 # test: add regression tests for symptom triage scoring
+
+# feat(agent): integrate lab test interpretation guide
