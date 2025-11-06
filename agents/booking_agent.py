@@ -689,3 +689,5 @@ if __name__ == "__main__":
 # [2025-10-28] test: verify triage accuracy across diverse clinical vignettes
 
 # [2025-11-02] refactor(api): introduce custom exception handlers with clean JSON errors
+
+# [2025-11-06] feat(dashboard): add filter controls for alert history view
