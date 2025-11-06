@@ -1163,3 +1163,5 @@ if __name__ == "__main__":
 # [2025-10-29] fix(api): fix payload validation error in /simulation/run endpoint
 
 # [2025-11-02] feat(dashboard): display doctor availability heatmaps
+
+# [2025-11-06] docs: add contributor guidelines and coding standards
