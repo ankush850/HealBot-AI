@@ -683,3 +683,5 @@ if __name__ == "__main__":
 # [2025-10-30] feat(dashboard): implement dark mode compatibility styles
 
 # [2025-11-03] feat(agent): enhance allergy cross-reactivity warnings
+
+# [2025-11-07] refactor(tools): sanitize phone numbers to E.164 format
