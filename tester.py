@@ -57,3 +57,5 @@ if __name__ == "__main__":
 # [2025-10-31] feat(tools): add logging interceptor for outgoing API requests
 
 # [2025-11-04] refactor(emergency): separate alert broadcasting from triage classification
+
+# [2025-11-09] style: polish typography and spacing across clinical reports
