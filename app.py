@@ -380,3 +380,5 @@ with tabs[1]:
 # [2025-10-31] feat(booking): add SMS/WhatsApp confirmation receipt generator
 
 # [2025-11-04] style: enhance mobile responsiveness of Streamlit interface
+
+# [2025-11-08] perf: cache compiled regex patterns across agent parsers
