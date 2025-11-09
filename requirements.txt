@@ -36,3 +36,5 @@ pypdf
 # test: add regression tests for symptom triage scoring
 
 # feat(agent): integrate lab test interpretation guide
+
+# test: add mock integration tests for external hospital APIs
