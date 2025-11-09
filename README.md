@@ -56,3 +56,5 @@ streamlit run app.py
 <!-- update: fix(emergency): fix alert deduplication window logic -->
 
 <!-- update: test: benchmark vector search performance against large query sets -->
+
+<!-- update: feat(agent): add vaccination schedule lookups -->
