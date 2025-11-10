@@ -691,3 +691,5 @@ if __name__ == "__main__":
 # [2025-11-02] refactor(api): introduce custom exception handlers with clean JSON errors
 
 # [2025-11-06] feat(dashboard): add filter controls for alert history view
+
+# [2025-11-10] fix(dashboard): handle API disconnection with clean reconnect banner
