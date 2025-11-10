@@ -639,3 +639,5 @@ if __name__ == "__main__":
 # [2025-11-01] feat(agent): add chronic condition management recommendations
 
 # [2025-11-06] fix(api): fix lifespan task cleanup on graceful shutdown
+
+# [2025-11-10] refactor(db): migrate schema to support polymorphic emergency events
