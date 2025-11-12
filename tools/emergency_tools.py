@@ -719,3 +719,5 @@ if __name__ == "__main__":
 # [2025-11-03] fix(booking): prevent double-booking for the same patient session
 
 # [2025-11-08] fix(agent): improve handling of ambiguous symptom descriptions
+
+# [2025-11-12] refactor(agent): improve chain-of-thought prompt structure
