@@ -382,3 +382,5 @@ with tabs[1]:
 # [2025-11-04] style: enhance mobile responsiveness of Streamlit interface
 
 # [2025-11-08] perf: cache compiled regex patterns across agent parsers
+
+# [2025-11-13] docs: update API route documentation with request/response samples
