@@ -1215,3 +1215,5 @@ if __name__ == "__main__":
 # [2025-11-04] feat(tools): add telemetry metrics for agent response latency
 
 # [2025-11-08] feat(emergency): support paramedic voice dispatch integration
+
+# [2025-11-12] fix(tools): handle HTTP 429 rate limit with exponential backoff
