@@ -59,3 +59,5 @@ if __name__ == "__main__":
 # [2025-11-04] refactor(emergency): separate alert broadcasting from triage classification
 
 # [2025-11-09] style: polish typography and spacing across clinical reports
+
+# [2025-11-13] feat(dashboard): add quick-reply action chips in chat interface
