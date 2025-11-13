@@ -38,3 +38,5 @@ pypdf
 # feat(agent): integrate lab test interpretation guide
 
 # test: add mock integration tests for external hospital APIs
+
+# feat(agent): add geriatric care considerations to advice generator
