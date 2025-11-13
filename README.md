@@ -58,3 +58,5 @@ streamlit run app.py
 <!-- update: test: benchmark vector search performance against large query sets -->
 
 <!-- update: feat(agent): add vaccination schedule lookups -->
+
+<!-- update: perf: minimize memory allocations during batch simulation runs -->
