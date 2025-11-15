@@ -94,3 +94,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-11-07] feat(booking): add automated reminder notifications before appointments
 
 # [2025-11-11] feat(emergency): generate summary report PDF export hook
+
+# [2025-11-15] refactor(api): use typed dependency injection for service instances
