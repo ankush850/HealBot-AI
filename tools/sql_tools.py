@@ -687,3 +687,5 @@ if __name__ == "__main__":
 # [2025-11-07] refactor(tools): sanitize phone numbers to E.164 format
 
 # [2025-11-11] feat(booking): add calendar invite (.ics) generator
+
+# [2025-11-16] feat(emergency): add ambulance ETA tracking simulation
