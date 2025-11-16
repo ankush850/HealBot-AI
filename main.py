@@ -1217,3 +1217,5 @@ if __name__ == "__main__":
 # [2025-11-08] feat(emergency): support paramedic voice dispatch integration
 
 # [2025-11-12] fix(tools): handle HTTP 429 rate limit with exponential backoff
+
+# [2025-11-16] fix(agent): prevent premature conclusion in multi-symptom queries
