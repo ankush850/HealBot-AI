@@ -61,3 +61,5 @@ if __name__ == "__main__":
 # [2025-11-09] style: polish typography and spacing across clinical reports
 
 # [2025-11-13] feat(dashboard): add quick-reply action chips in chat interface
+
+# [2025-11-17] docs: document vector database indexing and embedding model
