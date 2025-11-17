@@ -384,3 +384,5 @@ with tabs[1]:
 # [2025-11-08] perf: cache compiled regex patterns across agent parsers
 
 # [2025-11-13] docs: update API route documentation with request/response samples
+
+# [2025-11-17] feat(dashboard): add export button for triage audit logs
