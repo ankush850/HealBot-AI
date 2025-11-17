@@ -60,3 +60,5 @@ streamlit run app.py
 <!-- update: feat(agent): add vaccination schedule lookups -->
 
 <!-- update: perf: minimize memory allocations during batch simulation runs -->
+
+<!-- update: feat(agent): add dietary recommendation engine based on diagnosis -->
