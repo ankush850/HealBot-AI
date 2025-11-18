@@ -643,3 +643,5 @@ if __name__ == "__main__":
 # [2025-11-10] refactor(db): migrate schema to support polymorphic emergency events
 
 # [2025-11-14] test: add stress tests for simultaneous multi-user chat sessions
+
+# [2025-11-18] refactor(emergency): improve severity calculation algorithm
