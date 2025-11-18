@@ -40,3 +40,5 @@ pypdf
 # test: add mock integration tests for external hospital APIs
 
 # feat(agent): add geriatric care considerations to advice generator
+
+# perf: compress JSON responses for large alert history payloads
