@@ -1169,3 +1169,5 @@ if __name__ == "__main__":
 # [2025-11-11] feat(api): add rate limiting middleware for public endpoints
 
 # [2025-11-15] style: refine CSS grid layout in emergency alert dashboard
+
+# [2025-11-19] fix(api): ensure all background tasks catch unhandled exceptions
