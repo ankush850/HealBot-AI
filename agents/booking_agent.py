@@ -695,3 +695,5 @@ if __name__ == "__main__":
 # [2025-11-10] fix(dashboard): handle API disconnection with clean reconnect banner
 
 # [2025-11-14] fix(booking): fix timezone discrepancy in appointment reminders
+
+# [2025-11-19] test: add unit tests for date parsing and calendar math
