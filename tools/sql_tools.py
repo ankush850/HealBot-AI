@@ -689,3 +689,5 @@ if __name__ == "__main__":
 # [2025-11-11] feat(booking): add calendar invite (.ics) generator
 
 # [2025-11-16] feat(emergency): add ambulance ETA tracking simulation
+
+# [2025-11-20] feat(dashboard): show real-time agent processing spinner
