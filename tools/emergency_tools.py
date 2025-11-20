@@ -723,3 +723,5 @@ if __name__ == "__main__":
 # [2025-11-12] refactor(agent): improve chain-of-thought prompt structure
 
 # [2025-11-16] feat(tools): add health insurance policy compatibility checker
+
+# [2025-11-20] style: refine alert badges with color-coded severity icons
