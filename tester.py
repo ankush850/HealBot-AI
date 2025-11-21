@@ -63,3 +63,5 @@ if __name__ == "__main__":
 # [2025-11-13] feat(dashboard): add quick-reply action chips in chat interface
 
 # [2025-11-17] docs: document vector database indexing and embedding model
+
+# [2025-11-21] fix(db): handle locked database exceptions with automatic retry
