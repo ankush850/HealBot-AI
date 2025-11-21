@@ -386,3 +386,5 @@ with tabs[1]:
 # [2025-11-13] docs: update API route documentation with request/response samples
 
 # [2025-11-17] feat(dashboard): add export button for triage audit logs
+
+# [2025-11-21] feat(agent): add mental health screening and support resources
