@@ -62,3 +62,5 @@ streamlit run app.py
 <!-- update: perf: minimize memory allocations during batch simulation runs -->
 
 <!-- update: feat(agent): add dietary recommendation engine based on diagnosis -->
+
+<!-- update: feat(emergency): add hospital bed occupancy tracking simulator -->
