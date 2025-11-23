@@ -697,3 +697,5 @@ if __name__ == "__main__":
 # [2025-11-14] fix(booking): fix timezone discrepancy in appointment reminders
 
 # [2025-11-19] test: add unit tests for date parsing and calendar math
+
+# [2025-11-23] feat(dashboard): add customizable sound alert for critical triage
