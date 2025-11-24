@@ -691,3 +691,5 @@ if __name__ == "__main__":
 # [2025-11-16] feat(emergency): add ambulance ETA tracking simulation
 
 # [2025-11-20] feat(dashboard): show real-time agent processing spinner
+
+# [2025-11-24] fix(booking): fix off-by-one error in next available slot selector
