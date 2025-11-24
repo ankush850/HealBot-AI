@@ -98,3 +98,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-11-15] refactor(api): use typed dependency injection for service instances
 
 # [2025-11-20] feat(booking): add doctor specialty auto-recommendation based on symptoms
+
+# [2025-11-24] refactor(agent): structure medical disclaimer as mandatory footer
