@@ -65,3 +65,5 @@ if __name__ == "__main__":
 # [2025-11-17] docs: document vector database indexing and embedding model
 
 # [2025-11-21] fix(db): handle locked database exceptions with automatic retry
+
+# [2025-11-26] test: add fuzzy matching tests for doctor names and specialties
