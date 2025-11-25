@@ -388,3 +388,5 @@ with tabs[1]:
 # [2025-11-17] feat(dashboard): add export button for triage audit logs
 
 # [2025-11-21] feat(agent): add mental health screening and support resources
+
+# [2025-11-25] feat(agent): integrate drug-drug interaction checker
