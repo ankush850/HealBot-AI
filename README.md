@@ -64,3 +64,5 @@ streamlit run app.py
 <!-- update: feat(agent): add dietary recommendation engine based on diagnosis -->
 
 <!-- update: feat(emergency): add hospital bed occupancy tracking simulator -->
+
+<!-- update: style: enhance visual hierarchy of diagnosis recommendations -->
