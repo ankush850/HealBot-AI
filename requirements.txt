@@ -44,3 +44,5 @@ pypdf
 # perf: compress JSON responses for large alert history payloads
 
 # test: verify WhatsApp template variable substitution
+
+# refactor(tools): simplify payload builders for WhatsApp templates
