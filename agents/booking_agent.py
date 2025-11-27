@@ -699,3 +699,5 @@ if __name__ == "__main__":
 # [2025-11-19] test: add unit tests for date parsing and calendar math
 
 # [2025-11-23] feat(dashboard): add customizable sound alert for critical triage
+
+# [2025-11-27] feat(booking): add patient intake notes directly to appointment record
