@@ -647,3 +647,5 @@ if __name__ == "__main__":
 # [2025-11-18] refactor(emergency): improve severity calculation algorithm
 
 # [2025-11-23] docs: add deployment instructions for Docker and cloud instances
+
+# [2025-11-27] fix(dashboard): persist session state across browser tab switches
