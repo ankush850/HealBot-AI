@@ -1173,3 +1173,5 @@ if __name__ == "__main__":
 # [2025-11-19] fix(api): ensure all background tasks catch unhandled exceptions
 
 # [2025-11-23] perf: optimize string concatenations in prompt formatting
+
+# [2025-11-28] feat(agent): support continuous health monitoring log entries
