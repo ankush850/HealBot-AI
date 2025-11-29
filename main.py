@@ -1223,3 +1223,5 @@ if __name__ == "__main__":
 # [2025-11-21] refactor(tools): abstract notification provider interface
 
 # [2025-11-25] feat(emergency): broadcast SOS to designated family contacts
+
+# [2025-11-29] fix(api): validate UUID format for incoming session identifiers
