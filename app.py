@@ -390,3 +390,5 @@ with tabs[1]:
 # [2025-11-21] feat(agent): add mental health screening and support resources
 
 # [2025-11-25] feat(agent): integrate drug-drug interaction checker
+
+# [2025-11-30] feat(dashboard): add interactive map component for emergency hotspots
