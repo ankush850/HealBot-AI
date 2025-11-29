@@ -727,3 +727,5 @@ if __name__ == "__main__":
 # [2025-11-20] style: refine alert badges with color-coded severity icons
 
 # [2025-11-25] feat(api): add API versioning headers
+
+# [2025-11-29] refactor(emergency): encapsulate alert dispatch logic in service class
