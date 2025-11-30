@@ -66,3 +66,5 @@ streamlit run app.py
 <!-- update: feat(emergency): add hospital bed occupancy tracking simulator -->
 
 <!-- update: style: enhance visual hierarchy of diagnosis recommendations -->
+
+<!-- update: feat(agent): add post-consultation feedback collection -->
