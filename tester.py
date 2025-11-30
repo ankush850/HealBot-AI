@@ -67,3 +67,5 @@ if __name__ == "__main__":
 # [2025-11-21] fix(db): handle locked database exceptions with automatic retry
 
 # [2025-11-26] test: add fuzzy matching tests for doctor names and specialties
+
+# [2025-11-30] test: add end-to-end integration test for emergency alert flow
