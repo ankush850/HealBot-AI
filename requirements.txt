@@ -46,3 +46,5 @@ pypdf
 # test: verify WhatsApp template variable substitution
 
 # refactor(tools): simplify payload builders for WhatsApp templates
+
+# feat(booking): add support for virtual tele-health consultations
