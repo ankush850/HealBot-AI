@@ -649,3 +649,5 @@ if __name__ == "__main__":
 # [2025-11-23] docs: add deployment instructions for Docker and cloud instances
 
 # [2025-11-27] fix(dashboard): persist session state across browser tab switches
+
+# [2025-12-01] refactor: standardize logging format across all agent modules
