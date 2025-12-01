@@ -701,3 +701,5 @@ if __name__ == "__main__":
 # [2025-11-23] feat(dashboard): add customizable sound alert for critical triage
 
 # [2025-11-27] feat(booking): add patient intake notes directly to appointment record
+
+# [2025-12-02] fix(tools): fix missing authentication header on webhook callbacks
