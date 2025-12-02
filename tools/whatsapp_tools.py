@@ -102,3 +102,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-11-24] refactor(agent): structure medical disclaimer as mandatory footer
 
 # [2025-11-28] docs: update licensing and open-source credits
+
+# [2025-12-02] feat(emergency): add triage escalation if patient condition deteriorates
