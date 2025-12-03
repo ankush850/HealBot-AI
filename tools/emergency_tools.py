@@ -729,3 +729,5 @@ if __name__ == "__main__":
 # [2025-11-25] feat(api): add API versioning headers
 
 # [2025-11-29] refactor(emergency): encapsulate alert dispatch logic in service class
+
+# [2025-12-03] refactor(ui): update application titles and banners to HealBot AI
