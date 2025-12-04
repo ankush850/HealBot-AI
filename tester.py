@@ -69,3 +69,5 @@ if __name__ == "__main__":
 # [2025-11-26] test: add fuzzy matching tests for doctor names and specialties
 
 # [2025-11-30] test: add end-to-end integration test for emergency alert flow
+
+# [2025-12-04] fix(api): update API title and startup metadata to HealBot AI API
