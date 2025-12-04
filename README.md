@@ -68,3 +68,5 @@ streamlit run app.py
 <!-- update: style: enhance visual hierarchy of diagnosis recommendations -->
 
 <!-- update: feat(agent): add post-consultation feedback collection -->
+
+<!-- update: perf: benchmark and tune end-to-end latency for chat queries -->
