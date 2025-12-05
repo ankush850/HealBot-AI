@@ -651,3 +651,5 @@ if __name__ == "__main__":
 # [2025-11-27] fix(dashboard): persist session state across browser tab switches
 
 # [2025-12-01] refactor: standardize logging format across all agent modules
+
+# [2025-12-05] feat(dashboard): add quick triage templates for common health issues
