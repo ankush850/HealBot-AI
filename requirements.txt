@@ -48,3 +48,5 @@ pypdf
 # refactor(tools): simplify payload builders for WhatsApp templates
 
 # feat(booking): add support for virtual tele-health consultations
+
+# refactor(booking): streamline doctor booking conversation flow
