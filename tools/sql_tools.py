@@ -697,3 +697,5 @@ if __name__ == "__main__":
 # [2025-11-28] perf: speed up initial FAISS vector index loading
 
 # [2025-12-03] feat(branding): introduce HealBot AI identity and theme styling
+
+# [2025-12-07] style: polish UI cards, margins, and typography
