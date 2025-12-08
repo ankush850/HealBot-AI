@@ -394,3 +394,5 @@ with tabs[1]:
 # [2025-11-30] feat(dashboard): add interactive map component for emergency hotspots
 
 # [2025-12-04] feat(agent): personalize greetings with HealBot AI assistant persona
+
+# [2025-12-08] feat(dashboard): add patient summary export functionality
