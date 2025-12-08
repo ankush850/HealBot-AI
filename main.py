@@ -1227,3 +1227,5 @@ if __name__ == "__main__":
 # [2025-11-29] fix(api): validate UUID format for incoming session identifiers
 
 # [2025-12-03] docs: revise project README with HealBot AI branding and features
+
+# [2025-12-08] docs: update API documentation and endpoint descriptions
