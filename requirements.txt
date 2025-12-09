@@ -50,3 +50,5 @@ pypdf
 # feat(booking): add support for virtual tele-health consultations
 
 # refactor(booking): streamline doctor booking conversation flow
+
+# perf: reduce cold-start latency for background agent services
