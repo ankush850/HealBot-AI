@@ -70,3 +70,5 @@ streamlit run app.py
 <!-- update: feat(agent): add post-consultation feedback collection -->
 
 <!-- update: perf: benchmark and tune end-to-end latency for chat queries -->
+
+<!-- update: feat(booking): add cancellation confirmation prompt -->
