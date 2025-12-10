@@ -1179,3 +1179,5 @@ if __name__ == "__main__":
 # [2025-12-02] style: refine dashboard dark mode contrast and borders
 
 # [2025-12-06] fix(tools): prevent duplicate WhatsApp notifications on network hiccups
+
+# [2025-12-10] feat(emergency): support multi-hospital triage load balancing
