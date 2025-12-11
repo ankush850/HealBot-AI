@@ -733,3 +733,5 @@ if __name__ == "__main__":
 # [2025-12-03] refactor(ui): update application titles and banners to HealBot AI
 
 # [2025-12-07] refactor(agent): improve intent detection between chat vs booking
+
+# [2025-12-12] fix(api): ensure proper HTTP status codes for validation errors
