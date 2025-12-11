@@ -106,3 +106,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-12-02] feat(emergency): add triage escalation if patient condition deteriorates
 
 # [2025-12-07] feat(emergency): enhance critical alert visibility with banner alerts
+
+# [2025-12-11] style: refine color theme for high and moderate alerts
