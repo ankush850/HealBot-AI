@@ -52,3 +52,5 @@ pypdf
 # refactor(booking): streamline doctor booking conversation flow
 
 # perf: reduce cold-start latency for background agent services
+
+# test: add automated assertions for emergency severity levels
