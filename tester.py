@@ -73,3 +73,5 @@ if __name__ == "__main__":
 # [2025-12-04] fix(api): update API title and startup metadata to HealBot AI API
 
 # [2025-12-09] fix(agent): ensure clear triage disclaimer on all responses
+
+# [2025-12-13] docs: document simulation types and testing guidelines
