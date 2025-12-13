@@ -72,3 +72,5 @@ streamlit run app.py
 <!-- update: perf: benchmark and tune end-to-end latency for chat queries -->
 
 <!-- update: feat(booking): add cancellation confirmation prompt -->
+
+<!-- update: feat(booking): support doctor filtering by proximity and rating -->
