@@ -707,3 +707,5 @@ if __name__ == "__main__":
 # [2025-12-06] test: comprehensive test run across all triage scenarios
 
 # [2025-12-10] test: add unit tests for doctor slot allocation logic
+
+# [2025-12-14] style: improve table formatting in Streamlit diagnosis view
