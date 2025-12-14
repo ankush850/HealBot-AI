@@ -655,3 +655,5 @@ if __name__ == "__main__":
 # [2025-12-05] feat(dashboard): add quick triage templates for common health issues
 
 # [2025-12-10] refactor(db): optimize emergency database cache structure
+
+# [2025-12-14] feat(agent): add recovery tracking and follow-up prompts
