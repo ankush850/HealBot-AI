@@ -701,3 +701,5 @@ if __name__ == "__main__":
 # [2025-12-07] style: polish UI cards, margins, and typography
 
 # [2025-12-11] feat(agent): add first-aid guidance for burn, fracture, and choking
+
+# [2025-12-16] perf: optimize regex extraction in medical entity recognizer
