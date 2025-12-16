@@ -735,3 +735,5 @@ if __name__ == "__main__":
 # [2025-12-07] refactor(agent): improve intent detection between chat vs booking
 
 # [2025-12-12] fix(api): ensure proper HTTP status codes for validation errors
+
+# [2025-12-16] refactor: remove redundant debug prints and unused variables
