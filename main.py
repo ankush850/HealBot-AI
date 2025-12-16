@@ -1231,3 +1231,5 @@ if __name__ == "__main__":
 # [2025-12-08] docs: update API documentation and endpoint descriptions
 
 # [2025-12-12] feat(dashboard): add live server status indicator badge
+
+# [2025-12-16] feat(agent): add pregnancy & maternal health safety guidance
