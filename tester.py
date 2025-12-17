@@ -75,3 +75,5 @@ if __name__ == "__main__":
 # [2025-12-09] fix(agent): ensure clear triage disclaimer on all responses
 
 # [2025-12-13] docs: document simulation types and testing guidelines
+
+# [2025-12-17] feat(emergency): add priority triage queue for pediatric emergencies
