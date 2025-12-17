@@ -74,3 +74,5 @@ streamlit run app.py
 <!-- update: feat(booking): add cancellation confirmation prompt -->
 
 <!-- update: feat(booking): support doctor filtering by proximity and rating -->
+
+<!-- update: docs: finalize architecture docs and developer guide -->
