@@ -54,3 +54,5 @@ pypdf
 # perf: reduce cold-start latency for background agent services
 
 # test: add automated assertions for emergency severity levels
+
+# style: enhance button active states and badge styling
