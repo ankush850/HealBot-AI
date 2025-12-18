@@ -709,3 +709,5 @@ if __name__ == "__main__":
 # [2025-12-10] test: add unit tests for doctor slot allocation logic
 
 # [2025-12-14] style: improve table formatting in Streamlit diagnosis view
+
+# [2025-12-19] feat(tools): add webhook listener for WhatsApp message delivery receipts
