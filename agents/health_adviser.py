@@ -657,3 +657,5 @@ if __name__ == "__main__":
 # [2025-12-10] refactor(db): optimize emergency database cache structure
 
 # [2025-12-14] feat(agent): add recovery tracking and follow-up prompts
+
+# [2025-12-18] fix(booking): handle bank holidays and weekend scheduling rules
