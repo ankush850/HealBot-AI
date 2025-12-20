@@ -1233,3 +1233,5 @@ if __name__ == "__main__":
 # [2025-12-12] feat(dashboard): add live server status indicator badge
 
 # [2025-12-16] feat(agent): add pregnancy & maternal health safety guidance
+
+# [2025-12-21] fix(dashboard): fix chart rendering glitch on empty alert data
