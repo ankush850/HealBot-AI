@@ -737,3 +737,5 @@ if __name__ == "__main__":
 # [2025-12-12] fix(api): ensure proper HTTP status codes for validation errors
 
 # [2025-12-16] refactor: remove redundant debug prints and unused variables
+
+# [2025-12-20] feat(dashboard): add real-time active session counter
