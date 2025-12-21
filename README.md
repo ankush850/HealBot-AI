@@ -76,3 +76,5 @@ streamlit run app.py
 <!-- update: feat(booking): support doctor filtering by proximity and rating -->
 
 <!-- update: docs: finalize architecture docs and developer guide -->
+
+<!-- update: style: optimize dashboard CSS for high-DPI displays -->
