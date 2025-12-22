@@ -56,3 +56,5 @@ pypdf
 # test: add automated assertions for emergency severity levels
 
 # style: enhance button active states and badge styling
+
+# feat(agent): add post-medication symptom check reminders
