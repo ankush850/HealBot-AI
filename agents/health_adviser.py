@@ -659,3 +659,5 @@ if __name__ == "__main__":
 # [2025-12-14] feat(agent): add recovery tracking and follow-up prompts
 
 # [2025-12-18] fix(booking): handle bank holidays and weekend scheduling rules
+
+# [2025-12-22] refactor(booking): consolidate appointment validation steps
