@@ -1185,3 +1185,5 @@ if __name__ == "__main__":
 # [2025-12-15] fix(emergency): fix edge case where alert level defaults to unknown
 
 # [2025-12-19] feat(agent): integrate sleep and hydration tracking suggestions
+
+# [2025-12-23] fix(agent): refine dosage unit conversion logic
