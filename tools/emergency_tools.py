@@ -739,3 +739,5 @@ if __name__ == "__main__":
 # [2025-12-16] refactor: remove redundant debug prints and unused variables
 
 # [2025-12-20] feat(dashboard): add real-time active session counter
+
+# [2025-12-24] refactor: ensure strict type hints across core agent functions
