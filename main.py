@@ -1235,3 +1235,5 @@ if __name__ == "__main__":
 # [2025-12-16] feat(agent): add pregnancy & maternal health safety guidance
 
 # [2025-12-21] fix(dashboard): fix chart rendering glitch on empty alert data
+
+# [2025-12-25] test: add stress tests for high-volume emergency simulation
