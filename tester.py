@@ -79,3 +79,5 @@ if __name__ == "__main__":
 # [2025-12-17] feat(emergency): add priority triage queue for pediatric emergencies
 
 # [2025-12-21] feat(emergency): add automated escalation for unresolved critical alerts
+
+# [2025-12-26] feat(agent): finalize empathetic conversational tone and safety rules
