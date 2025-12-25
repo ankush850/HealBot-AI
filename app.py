@@ -402,3 +402,5 @@ with tabs[1]:
 # [2025-12-17] test: verify appointment rescheduling logic under concurrent requests
 
 # [2025-12-21] test: execute full test suite and verify test coverage
+
+# [2025-12-25] style: final polish on UI cards, animations, and typography
