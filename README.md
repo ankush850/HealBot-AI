@@ -78,3 +78,5 @@ streamlit run app.py
 <!-- update: docs: finalize architecture docs and developer guide -->
 
 <!-- update: style: optimize dashboard CSS for high-DPI displays -->
+
+<!-- update: fix(api): ensure clean shutdown of all background monitoring tasks -->
