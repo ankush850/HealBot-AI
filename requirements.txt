@@ -58,3 +58,5 @@ pypdf
 # style: enhance button active states and badge styling
 
 # feat(agent): add post-medication symptom check reminders
+
+# docs: update API endpoints documentation in README.md
