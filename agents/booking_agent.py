@@ -713,3 +713,5 @@ if __name__ == "__main__":
 # [2025-12-19] feat(tools): add webhook listener for WhatsApp message delivery receipts
 
 # [2025-12-23] feat(tools): add health status diagnostics probe
+
+# [2025-12-27] refactor: format codebase and adhere to clean architecture
