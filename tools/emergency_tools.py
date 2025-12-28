@@ -741,3 +741,5 @@ if __name__ == "__main__":
 # [2025-12-20] feat(dashboard): add real-time active session counter
 
 # [2025-12-24] refactor: ensure strict type hints across core agent functions
+
+# [2025-12-29] test: verify all core agent features and end-to-end user journeys
