@@ -707,3 +707,5 @@ if __name__ == "__main__":
 # [2025-12-20] refactor(api): enforce structured response models across all endpoints
 
 # [2025-12-24] perf: finalize memory and latency optimizations
+
+# [2025-12-28] chore: prepare release candidate v2.0.0
