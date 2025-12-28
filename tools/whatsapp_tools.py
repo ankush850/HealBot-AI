@@ -114,3 +114,5 @@ def send_whatsapp_template(recipient_number, template_name="hello_world", langua
 # [2025-12-19] perf: cache vector database queries with TTL policy
 
 # [2025-12-24] feat(dashboard): add instant emergency SOS quick-action button
+
+# [2025-12-28] fix(dashboard): ensure seamless experience across desktop and mobile
